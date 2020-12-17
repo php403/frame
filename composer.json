@@ -1,0 +1,22 @@
+{
+    "name": "pg/frame",
+    "description": "fpm frame",
+    "type": "library",
+    "require": {
+        "php": ">=7"
+    },
+    "require-dev": {
+        "n": "n"
+    },
+    "authors": [
+        {
+            "name": "pg719",
+            "email": "pg719@qq.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "frame":"src//frame"
+        }
+    }
+}
