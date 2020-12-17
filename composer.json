@@ -5,9 +5,6 @@
     "require": {
         "php": ">=7"
     },
-    "require-dev": {
-        "n": "n"
-    },
     "authors": [
         {
             "name": "pg719",
