@@ -14,6 +14,7 @@
             "email": "pg719@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload":{
         "psr-4":{
             "frame":"src//frame"
